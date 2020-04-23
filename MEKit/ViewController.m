@@ -32,6 +32,7 @@
     [super viewDidLoad];
     
     NSLog(@"test branch");
+    NSLog(@"test branch two");
 
     NSDate *date = [NSDate date];
     NSLog(@"%@", [date dateByAddingYears:1]);
